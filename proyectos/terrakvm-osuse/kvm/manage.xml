@@ -1,0 +1,10 @@
+<network connections='1'>
+  <name>manage</name>
+  <uuid>e5f75905-7a79-4bb0-bdc7-c6db58c4e484</uuid>
+  <bridge name='virbr2' stp='on' delay='0'/>
+  <mac address='52:54:00:09:f3:3f'/>
+  <domain name='manage'/>
+  <ip address='172.16.25.1' netmask='255.255.255.0'>
+  </ip>
+</network>
+

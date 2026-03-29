@@ -1,0 +1,10 @@
+<network>
+  <name>privada</name>
+  <uuid>2fedbfd4-8190-4b34-b828-25d255889919</uuid>
+  <bridge name='virbr1' stp='on' delay='0'/>
+  <mac address='52:54:00:64:2b:1c'/>
+  <domain name='privada'/>
+  <ip address='192.168.100.1' netmask='255.255.255.0'>
+  </ip>
+</network>
+
