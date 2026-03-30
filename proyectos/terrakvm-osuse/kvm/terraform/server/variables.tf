@@ -21,7 +21,7 @@ variable "cpu" {
 }
 
 variable "diskSize" {
-  default = 20
+  default = 24
 }
 
 variable "path_to_image" {
